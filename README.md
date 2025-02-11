@@ -8,7 +8,7 @@ Este proyecto implementa un autoencoder utilizando JAX para eliminar el ruido en
 
 ## Contenido del Repositorio
 
-- [Informe_JAX.pdf](Informe_JAX.pdf): Información sobre JAX sobre sus características, ecosistema y comparación con PyTorch y TensorFlow.
+- [Informe_JAX_jab.pdf](Informe_JAX_jab.pdf): Información sobre JAX sobre sus características, ecosistema y comparación con PyTorch y TensorFlow.
 
 - [ejercicio_JAX_Jairo_Andrades_Bueno.ipynb](ejercicio_JAX_Jairo_Andrades_Bueno.ipynb): Código principal que incluye la carga de datos, preprocesamiento, definición del modelo, entrenamiento y visualización de resultados.
 
